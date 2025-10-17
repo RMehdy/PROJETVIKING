@@ -1837,3 +1837,154 @@ SM_Beam_4m_02_A11
 [2025.10.17-08.05.56:222][147]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement65DD84F74AFCD6C0D8F89EA064B81998.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
 [2025.10.17-08.05.56:230][147]AssetCheck: New page: Asset Save: environement
 [2025.10.17-08.05.56:230][147]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-08.07.59:176][633]LogEditorViewport: Clicking Background
+[2025.10.17-08.10.55:033][709]EditorErrors: New page: Actor attachment
+[2025.10.17-08.11.57:146][581]LogEditorViewport: Clicking Background
+[2025.10.17-08.11.57:897][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.10.17-08.11.57:927][669]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement2FE34044497839DD2A2D52A9E1A1F0FC.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-08.11.57:959][669]AssetCheck: New page: Asset Save: environement
+[2025.10.17-08.11.57:960][669]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-08.13.13:061][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.17-08.13.13:091][666]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environementF839F6074D0858DD811FB5B019F76779.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-08.13.13:124][666]AssetCheck: New page: Asset Save: environement
+[2025.10.17-08.13.13:124][666]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-08.13.52:715][ 17]LogStaticMesh: Building static mesh SM_Skull_Deer_01...
+[2025.10.17-08.13.52:834][ 17]LogStaticMesh: Built static mesh [0.12s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Skull_Deer_01.SM_Skull_Deer_01
+[2025.10.17-08.13.52:885][ 17]LogActorFactory: Actor Factory created SM_Skull_Deer_01
+[2025.10.17-08.13.53:881][128]LogActorFactory: Actor Factory created SM_Skull_Deer_01
+[2025.10.17-08.13.59:245][761]Cmd: DELETE
+[2025.10.17-08.13.59:246][761]Cmd: ACTOR DELETE
+[2025.10.17-08.13.59:249][761]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-08.13.59:252][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.17-08.13.59:253][761]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-08.14.28:427][241]LogStaticMesh: Building static mesh SM_Cart...
+[2025.10.17-08.14.28:461][241]LogStaticMesh: Built static mesh [0.03s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Cart.SM_Cart
+[2025.10.17-08.14.28:619][243]LogActorFactory: Actor Factory created SM_Cart
+[2025.10.17-08.14.29:094][288]LogActorFactory: Actor Factory created SM_Cart
+[2025.10.17-08.14.30:715][480]Cmd: DELETE
+[2025.10.17-08.14.30:715][480]Cmd: ACTOR DELETE
+[2025.10.17-08.14.30:718][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-08.14.30:722][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.10.17-08.14.30:723][480]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-08.14.38:454][393]LogStaticMesh: Building static mesh SM_Crate_01...
+[2025.10.17-08.14.38:474][393]LogStaticMesh: Built static mesh [0.02s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Crate_01.SM_Crate_01
+[2025.10.17-08.14.38:520][396]LogActorFactory: Actor Factory created SM_Crate_01
+[2025.10.17-08.14.44:563][953]LogStaticMesh: Building static mesh SM_Basket_02_A...
+[2025.10.17-08.14.44:625][953]LogStaticMesh: Built static mesh [0.06s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Basket_02_A.SM_Basket_02_A
+[2025.10.17-08.14.44:750][957]LogActorFactory: Actor Factory created SM_Basket_02_A
+[2025.10.17-08.15.00:390][549]LogStaticMesh: Building static mesh SM_Rope_Wood_01...
+[2025.10.17-08.15.00:447][549]LogStaticMesh: Built static mesh [0.06s] /Game/Low_Poly_Viking_Interiors/Models/Props/Ropes/SM_Rope_Wood_01.SM_Rope_Wood_01
+[2025.10.17-08.15.00:526][549]LogActorFactory: Actor Factory created SM_Rope_Wood_01
+[2025.10.17-08.15.19:553][416]LogStaticMesh: Building static mesh SM_Sack_02_D...
+[2025.10.17-08.15.19:671][416]LogStaticMesh: Built static mesh [0.12s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Sack_02_D.SM_Sack_02_D
+[2025.10.17-08.15.19:806][416]LogActorFactory: Actor Factory created SM_Sack_02_D
+[2025.10.17-08.15.29:441][412]LogActorFactory: Actor Factory created SM_Sack_02_D
+[2025.10.17-08.15.38:762][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_15)
+[2025.10.17-08.15.59:027][792]LogEditorViewport: Clicking Background
+[2025.10.17-08.16.33:668][800]LogActorFactory: Actor Factory created SM_Cup_07_Plate_B
+[2025.10.17-08.16.34:740][924]LogActorFactory: Actor Factory created SM_Cup_07_Plate_B
+[2025.10.17-08.16.36:234][ 63]LogActorFactory: Actor Factory created SM_Cup_06_Bottle_B
+[2025.10.17-08.16.37:305][185]LogActorFactory: Actor Factory created SM_Cup_06_Bottle_B
+[2025.10.17-08.16.37:952][249]LogActorFactory: Actor Factory created SM_Cup_06_Bottle_A
+[2025.10.17-08.16.39:005][366]LogActorFactory: Actor Factory created SM_Cup_06_Bottle_A
+[2025.10.17-08.16.59:602][603]LogActorFactory: Actor Factory created SM_Food_Meat_04
+[2025.10.17-08.17.01:652][778]LogActorFactory: Actor Factory created SM_Food_Meat_05
+[2025.10.17-08.17.03:138][942]LogActorFactory: Actor Factory created SM_Food_Meat_05
+[2025.10.17-08.17.05:393][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cup_06_Bottle_A14)
+[2025.10.17-08.17.06:626][352]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Cup_06_Bottle_B14)
+[2025.10.17-08.17.10:987][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Food_Meat_7)
+[2025.10.17-08.17.16:324][483]LogEditorViewport: Clicking Background
+[2025.10.17-08.17.32:369][400]LogEditorViewport: Clicking Background
+[2025.10.17-08.17.33:134][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.17-08.17.33:164][489]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement1D7F6266484926D7BEE29F94F6FE2163.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-08.17.33:191][489]AssetCheck: New page: Asset Save: environement
+[2025.10.17-08.17.33:191][489]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-08.17.43:812][677]LogActorFactory: Actor Factory created SM_Carpet_01_A
+[2025.10.17-08.17.47:155][ 68]LogActorFactory: Actor Factory created SM_Carpet_01_A
+[2025.10.17-08.18.15:854][421]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Carpet_01_A5)
+[2025.10.17-08.18.17:633][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet_01_A5)
+[2025.10.17-08.18.32:902][413]LogEditorViewport: Clicking Background
+[2025.10.17-08.18.44:885][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet_01_A6)
+[2025.10.17-08.18.54:240][874]LogActorFactory: Actor Factory created SM_Sack_02_D
+[2025.10.17-08.18.55:339][998]LogActorFactory: Actor Factory created SM_Sack_02_D
+[2025.10.17-08.19.06:137][288]Cmd: DELETE
+[2025.10.17-08.19.06:137][288]Cmd: ACTOR DELETE
+[2025.10.17-08.19.06:141][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-08.19.06:143][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.17-08.19.06:145][288]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-08.19.15:353][221]LogActorFactory: Actor Factory created SM_Crate_02_A
+[2025.10.17-08.19.16:211][317]LogActorFactory: Actor Factory created SM_Crate_02_A
+[2025.10.17-08.19.23:233][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_02_A2)
+[2025.10.17-08.19.28:178][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-08.19.28:808][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_02_A3)
+[2025.10.17-08.19.46:090][848]LogEditorViewport: Clicking Background
+[2025.10.17-08.19.49:957][257]LogStaticMesh: Building static mesh SM_Cargo_01_A...
+[2025.10.17-08.19.50:060][257]LogStaticMesh: Built static mesh [0.10s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Cargo_01_A.SM_Cargo_01_A
+[2025.10.17-08.19.50:160][257]LogActorFactory: Actor Factory created SM_Cargo_01_A
+[2025.10.17-08.19.51:217][377]LogActorFactory: Actor Factory created SM_Cargo_01_A
+[2025.10.17-08.19.54:959][799]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2025.10.17-08.19.56:697][991]LogEditorViewport: Clicking Background
+[2025.10.17-08.20.24:964][215]LogActorFactory: Actor Factory created SM_Cupboard_04_C
+[2025.10.17-08.20.25:629][282]LogActorFactory: Actor Factory created SM_Cupboard_04_C
+[2025.10.17-08.20.38:257][784]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Beam_4m_02_A37)
+[2025.10.17-08.20.38:888][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cupboard_04_C3)
+[2025.10.17-08.20.48:216][929]LogEditorViewport: Clicking Background
+[2025.10.17-08.20.59:001][112]LogStaticMesh: Building static mesh SM_Hay_01_A...
+[2025.10.17-08.20.59:047][112]LogStaticMesh: Built static mesh [0.05s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Hay_01_A.SM_Hay_01_A
+[2025.10.17-08.20.59:137][112]LogActorFactory: Actor Factory created SM_Hay_01_A
+[2025.10.17-08.21.01:369][294]LogStaticMesh: Building static mesh SM_Hay_03_A...
+[2025.10.17-08.21.01:433][294]LogStaticMesh: Built static mesh [0.06s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Hay_03_A.SM_Hay_03_A
+[2025.10.17-08.21.01:555][294]LogActorFactory: Actor Factory created SM_Hay_03_A
+[2025.10.17-08.21.03:471][424]LogStaticMesh: Building static mesh SM_Hay_04_A...
+[2025.10.17-08.21.03:583][424]LogStaticMesh: Built static mesh [0.11s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Hay_04_A.SM_Hay_04_A
+[2025.10.17-08.21.03:673][424]LogActorFactory: Actor Factory created SM_Hay_04_A
+[2025.10.17-08.21.22:599][295]LogStaticMesh: Building static mesh SM_Barrel_05...
+[2025.10.17-08.21.22:673][295]LogStaticMesh: Built static mesh [0.07s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Barrel_05.SM_Barrel_05
+[2025.10.17-08.21.22:770][295]LogActorFactory: Actor Factory created SM_Barrel_05
+[2025.10.17-08.21.26:890][779]LogActorFactory: Actor Factory created SM_Barrel_05
+[2025.10.17-08.21.40:777][338]LogActorFactory: Actor Factory created SM_Sack_01_A
+[2025.10.17-08.21.41:731][441]LogActorFactory: Actor Factory created SM_Sack_01_A
+[2025.10.17-08.22.01:515][746]LogEditorViewport: Clicking Background
+[2025.10.17-08.22.06:289][303]LogStaticMesh: Building static mesh SM_Chain_02_A...
+[2025.10.17-08.22.06:304][303]LogStaticMesh: Built static mesh [0.02s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Chain_02_A.SM_Chain_02_A
+[2025.10.17-08.22.06:353][306]LogActorFactory: Actor Factory created SM_Chain_02_A
+[2025.10.17-08.24.01:168][857]LogActorFactory: Actor Factory created SM_Carpet_03_B
+[2025.10.17-08.24.02:293][981]LogActorFactory: Actor Factory created SM_Carpet_03_B
+[2025.10.17-08.24.42:235][545]LogEditorViewport: Clicking Background
+[2025.10.17-08.24.50:896][569]LogEditorViewport: Clicking Background
+[2025.10.17-08.25.11:736][980]LogStaticMesh: Building static mesh SM_Fur_02_A...
+[2025.10.17-08.25.11:753][980]LogStaticMesh: Built static mesh [0.02s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Fur_02_A.SM_Fur_02_A
+[2025.10.17-08.25.11:850][980]LogActorFactory: Actor Factory created SM_Fur_02_A
+[2025.10.17-08.25.14:137][136]LogActorFactory: Actor Factory created SM_Fur_01_A
+[2025.10.17-08.25.16:745][369]LogEditorViewport: Clicking Background
+[2025.10.17-08.25.28:639][622]LogStaticMesh: Building static mesh SM_Book_04_D...
+[2025.10.17-08.25.28:677][622]LogStaticMesh: Built static mesh [0.04s] /Game/Low_Poly_Viking_Interiors/Models/Props/Library/SM_Book_04_D.SM_Book_04_D
+[2025.10.17-08.25.28:758][622]LogActorFactory: Actor Factory created SM_Book_04_D
+[2025.10.17-08.25.31:007][881]LogActorFactory: Actor Factory created SM_Book_04_D
+[2025.10.17-08.25.47:237][593]LogActorFactory: Actor Factory created SM_Book_04_H
+[2025.10.17-08.25.50:139][931]LogActorFactory: Actor Factory created SM_Book_04_H
+[2025.10.17-08.25.56:459][657]LogActorFactory: Actor Factory created SM_Book_03_A
+[2025.10.17-08.25.57:611][783]LogActorFactory: Actor Factory created SM_Book_03_A
+[2025.10.17-08.26.00:659][138]LogStaticMesh: Building static mesh SM_Book_03_B...
+[2025.10.17-08.26.00:756][138]LogStaticMesh: Built static mesh [0.10s] /Game/Low_Poly_Viking_Interiors/Models/Props/Library/SM_Book_03_B.SM_Book_03_B
+[2025.10.17-08.26.00:828][138]LogActorFactory: Actor Factory created SM_Book_03_B
+[2025.10.17-08.26.01:745][236]LogActorFactory: Actor Factory created SM_Book_03_B
+[2025.10.17-08.26.08:506][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Book_03_A2)
+[2025.10.17-08.26.16:703][980]LogEditorViewport: Clicking Background
+[2025.10.17-08.26.26:093][ 19]LogActorFactory: Actor Factory created SM_Book_06_Scroll_E
+[2025.10.17-08.26.26:915][106]LogActorFactory: Actor Factory created SM_Book_06_Scroll_E
+[2025.10.17-08.26.38:307][335]LogStaticMesh: Building static mesh SM_Book_02_E...
+[2025.10.17-08.26.38:337][335]LogStaticMesh: Built static mesh [0.03s] /Game/Low_Poly_Viking_Interiors/Models/Props/Library/SM_Book_02_E.SM_Book_02_E
+[2025.10.17-08.26.38:418][335]LogActorFactory: Actor Factory created SM_Book_02_E
+[2025.10.17-08.26.39:559][459]LogActorFactory: Actor Factory created SM_Book_02_E
+[2025.10.17-08.26.44:685][ 57]LogEditorViewport: Clicking Background
+[2025.10.17-08.27.40:436][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.17-08.27.40:440][933]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main_Auto6156130284F1857AEF94109A04944BBBB.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/LVL_Main_Auto6.umap'
+[2025.10.17-08.27.40:448][933]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Blueprint_Auto664DE57884B13EA1C7CAF5BB6D00775B8.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/Maps/Blueprint_Auto6.umap'
+[2025.10.17-08.27.40:479][933]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement_Auto61CE88AA24996B4BE1752FEA258A6D685.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/Maps/environement_Auto6.umap'
+[2025.10.17-08.27.40:479][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL_Main' took 0.053
+[2025.10.17-08.27.40:479][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2025.10.17-08.28.25:974][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-08.28.26:005][268]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement172DE3B84114E52F596632B2C853922E.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-08.28.26:040][268]AssetCheck: New page: Asset Save: environement
+[2025.10.17-08.28.26:040][268]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
