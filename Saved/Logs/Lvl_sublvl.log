@@ -1257,3 +1257,583 @@ SM_Beam_4m_02_A11
 [2025.10.17-06.59.14:397][491]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environementC52C8FDE4FDF876F51C8A1B7FDC2783A.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
 [2025.10.17-06.59.14:423][491]AssetCheck: New page: Asset Save: environement
 [2025.10.17-06.59.14:423][491]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-07.02.25:952][723]LogEditorViewport: Clicking Background
+[2025.10.17-07.09.49:268][313]LogEditorViewport: Clicking on Actor (LMB): BP_Chandelier_03_C (BP_Chandelier_5)
+[2025.10.17-07.09.55:476][ 45]LogEditorViewport: Clicking Background
+[2025.10.17-07.13.09:881][ 45]LogActorFactory: Actor Factory created SM_Wall_Door_4m_02_B
+[2025.10.17-07.14.36:592][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A4)
+[2025.10.17-07.14.37:480][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A3)
+[2025.10.17-07.14.38:119][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A3)
+[2025.10.17-07.14.38:903][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A19)
+[2025.10.17-07.14.40:386][795]LogEditorViewport: Clicking Background
+[2025.10.17-07.14.40:775][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D7)
+[2025.10.17-07.14.41:642][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D11)
+[2025.10.17-07.14.42:121][999]LogEditorViewport: Clicking Background
+[2025.10.17-07.16.05:514][951]LogMaterial: Display: Missing cached shadermap for M_Fire_PS in PCD3D_SM5, Default, SM5 (DDC key hash: 14C9291BB4303CBBAA0619E19B888EAD2123FE04), compiling. 
+[2025.10.17-07.16.05:524][951]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2025.10.17-07.16.05:525][951]LogStaticMesh: Building static mesh SM_Fire_3D_Particle_02...
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (1/25): shaders left to compile 24
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (2/25): shaders left to compile 22
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (3/25): shaders left to compile 20
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (4/25): shaders left to compile 18
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (5/25): shaders left to compile 16
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (6/25): shaders left to compile 14
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (7/25): shaders left to compile 12
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (8/25): shaders left to compile 10
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (9/25): shaders left to compile 8
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (10/25): shaders left to compile 6
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (11/25): shaders left to compile 4
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Worker (12/25): shaders left to compile 2
+[2025.10.17-07.16.05:545][951]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Low' priority
+[2025.10.17-07.16.05:555][951]LogStaticMesh: Built static mesh [0.03s] /Game/Low_Poly_Viking_Interiors/Particles/Models/SM_Fire_3D_Particle_02.SM_Fire_3D_Particle_02
+[2025.10.17-07.16.05:646][951]LogStaticMesh: Building static mesh SM_Fire_3D_Particle_01...
+[2025.10.17-07.16.05:677][951]LogStaticMesh: Built static mesh [0.03s] /Game/Low_Poly_Viking_Interiors/Particles/Models/SM_Fire_3D_Particle_01.SM_Fire_3D_Particle_01
+[2025.10.17-07.16.05:746][951]LogStaticMesh: Building static mesh SM_Brazier_02...
+[2025.10.17-07.16.05:820][951]LogStaticMesh: Built static mesh [0.07s] /Game/Low_Poly_Viking_Interiors/Models/Props/Lights/SM_Brazier_02.SM_Brazier_02
+[2025.10.17-07.16.05:887][951]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.17-07.16.05:887][951]LogShaderCompilers: Display: Total job queries 97, among them cache hits 0 (0.00%)
+[2025.10.17-07.16.05:887][951]LogShaderCompilers: Display: Tracking 97 distinct input hashes that result in 57 distinct outputs (58.76%)
+[2025.10.17-07.16.05:887][951]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2025.10.17-07.16.05:887][951]LogShaderCompilers: Display: ================================================
+[2025.10.17-07.16.10:625][455]LogStaticMesh: Building static mesh SM_Torch...
+[2025.10.17-07.16.10:724][455]LogStaticMesh: Built static mesh [0.10s] /Game/Low_Poly_Viking_Interiors/Models/Props/Lights/SM_Torch.SM_Torch
+[2025.10.17-07.16.45:613][525]LogStaticMesh: Building static mesh SM_Candle_01...
+[2025.10.17-07.16.45:653][525]LogStaticMesh: Built static mesh [0.04s] /Game/Low_Poly_Viking_Interiors/Models/Props/Lights/SM_Candle_01.SM_Candle_01
+[2025.10.17-07.18.11:001][494]LogActorFactory: Actor Factory created SM_Beam_2m_03_A
+[2025.10.17-07.18.11:908][597]LogActorFactory: Actor Factory created SM_Beam_2m_03_A
+[2025.10.17-07.18.49:217][996]LogActorFactory: Actor Factory created SM_Door_01
+[2025.10.17-07.18.50:676][159]LogActorFactory: Actor Factory created SM_Door_01
+[2025.10.17-07.18.51:835][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_2m_03_A)
+[2025.10.17-07.18.54:077][564]Cmd: DELETE
+[2025.10.17-07.18.54:077][564]Cmd: ACTOR DELETE
+[2025.10.17-07.18.54:080][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.18.54:087][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.17-07.18.54:087][564]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.17-07.18.56:803][785]LogActorFactory: Actor Factory created SM_Church_Sign
+[2025.10.17-07.18.58:906][950]LogActorFactory: Actor Factory created SM_Beam_Door_4m_02_A
+[2025.10.17-07.19.02:656][388]LogActorFactory: Actor Factory created SM_Beam_Door_4m_02_A
+[2025.10.17-07.19.06:239][816]Cmd: DELETE
+[2025.10.17-07.19.06:239][816]Cmd: ACTOR DELETE
+[2025.10.17-07.19.06:241][816]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.19.06:245][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.17-07.19.06:245][816]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.19.07:784][946]LogActorFactory: Actor Factory created SM_Beam_4m_03_B
+[2025.10.17-07.19.08:778][ 59]LogActorFactory: Actor Factory created SM_Beam_4m_03_B
+[2025.10.17-07.19.10:752][294]Cmd: DELETE
+[2025.10.17-07.19.10:752][294]Cmd: ACTOR DELETE
+[2025.10.17-07.19.10:754][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.19.10:758][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.17-07.19.10:759][294]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.19.41:455][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.17-07.19.41:479][924]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement_Auto2DB900C9E4E0793AC91F4B59DFC72E594.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/Maps/environement_Auto2.umap'
+[2025.10.17-07.19.41:480][924]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL_Main' took 0.029
+[2025.10.17-07.19.41:480][924]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.10.17-07.19.45:766][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_01)
+[2025.10.17-07.21.29:180][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A29)
+[2025.10.17-07.22.01:538][536]LogActorFactory: Actor Factory created SM_Beam_4m_02_B
+[2025.10.17-07.22.04:141][765]LogActorFactory: Actor Factory created SM_Beam_4m_02_A
+[2025.10.17-07.22.08:760][161]LogActorFactory: Actor Factory created SM_Beam_2m_02_A
+[2025.10.17-07.22.14:129][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A31)
+[2025.10.17-07.22.14:656][740]Cmd: DELETE
+[2025.10.17-07.22.14:656][740]Cmd: ACTOR DELETE
+[2025.10.17-07.22.14:659][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.22.14:663][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.17-07.22.14:664][740]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.22.17:345][978]LogActorFactory: Actor Factory created SM_Beam_4m_02_B
+[2025.10.17-07.22.21:350][313]LogActorFactory: Actor Factory created SM_Beam_1m_01_A
+[2025.10.17-07.22.23:419][449]LogActorFactory: Actor Factory created SM_Beam_1m_01_B
+[2025.10.17-07.22.25:529][597]LogActorFactory: Actor Factory created SM_Beam_2m_01_A
+[2025.10.17-07.22.27:257][727]LogActorFactory: Actor Factory created SM_Beam_2m_01_B
+[2025.10.17-07.22.29:104][938]LogActorFactory: Actor Factory created SM_Beam_2m_01_B
+[2025.10.17-07.23.59:249][593]LogEditorViewport: Clicking Background
+[2025.10.17-07.24.03:935][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A29)
+[2025.10.17-07.24.10:001][878]Cmd: TRANSACTION UNDO
+[2025.10.17-07.24.10:001][878]LogEditorTransaction: Undo Rotate Actors
+[2025.10.17-07.24.40:756][427]LogEditorViewport: Clicking Background
+[2025.10.17-07.24.41:240][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A31)
+[2025.10.17-07.25.36:508][881]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.10.17-07.25.40:042][290]LogEditorViewport: Clicking Background
+[2025.10.17-07.25.42:540][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A31)
+[2025.10.17-07.25.50:111][475]LogEditorViewport: Clicking Background
+[2025.10.17-07.25.51:104][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A32)
+[2025.10.17-07.25.53:091][828]LogEditorViewport: Clicking Background
+[2025.10.17-07.25.57:248][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_01)
+[2025.10.17-07.25.57:860][388]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A31)
+[2025.10.17-07.25.58:472][459]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_2m_01_B)
+[2025.10.17-07.25.59:351][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A32)
+[2025.10.17-07.26.13:462][225]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A8)
+[2025.10.17-07.26.17:771][738]LogEditorViewport: Clicking Background
+[2025.10.17-07.26.23:902][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A31)
+[2025.10.17-07.26.41:758][581]LogEditorViewport: Clicking Background
+[2025.10.17-07.26.43:747][811]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A16)
+[2025.10.17-07.26.44:268][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A29)
+[2025.10.17-07.26.44:650][906]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A15)
+[2025.10.17-07.26.45:396][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A30)
+[2025.10.17-07.27.02:904][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A17)
+[2025.10.17-07.28.10:994][101]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.28.12:153][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.28.12:370][247]LogEditorViewport: Clicking on Component (CTRL LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.10.17-07.28.13:281][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A35)
+[2025.10.17-07.28.13:620][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A17)
+[2025.10.17-07.28.14:679][509]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A36)
+[2025.10.17-07.28.18:563][970]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A35)
+[2025.10.17-07.28.24:843][704]Cmd: TRANSACTION UNDO
+[2025.10.17-07.28.24:843][704]LogEditorTransaction: Undo Move Actors
+[2025.10.17-07.28.34:988][847]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.28.39:810][406]LogEditorViewport: Clicking Background
+[2025.10.17-07.28.46:210][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A8)
+[2025.10.17-07.28.47:117][261]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A7)
+[2025.10.17-07.28.47:524][307]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A7)
+[2025.10.17-07.28.48:407][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A14)
+[2025.10.17-07.29.00:546][843]Cmd: DELETE
+[2025.10.17-07.29.00:546][843]Cmd: ACTOR DELETE
+[2025.10.17-07.29.00:550][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.29.00:550][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.29.00:550][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.29.00:550][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.29.00:555][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.17-07.29.00:556][843]LogEditorActor: Deleted 4 Actors (0.010 secs)
+[2025.10.17-07.29.02:145][ 34]Cmd: TRANSACTION UNDO
+[2025.10.17-07.29.02:145][ 34]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.29.03:451][130]Cmd: TRANSACTION UNDO
+[2025.10.17-07.29.03:451][130]LogEditorTransaction: Undo Rotate Actors
+[2025.10.17-07.29.08:503][709]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_4m_2m_02_A18)
+[2025.10.17-07.29.15:587][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.29.23:197][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A19)
+[2025.10.17-07.29.23:728][457]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A37)
+[2025.10.17-07.29.24:116][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A18)
+[2025.10.17-07.29.25:516][665]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A38)
+[2025.10.17-07.29.26:330][757]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A19)
+[2025.10.17-07.30.03:418][ 57]LogEditorViewport: Clicking Background
+[2025.10.17-07.30.20:727][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A16)
+[2025.10.17-07.30.21:622][237]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A34)
+[2025.10.17-07.30.52:955][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.31.19:170][916]LogEditorViewport: Clicking Background
+[2025.10.17-07.31.19:954][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A34)
+[2025.10.17-07.31.20:503][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.31.21:017][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A34)
+[2025.10.17-07.31.21:920][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.31.24:146][471]LogEditorViewport: Clicking Background
+[2025.10.17-07.31.25:215][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A19)
+[2025.10.17-07.31.40:157][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A16)
+[2025.10.17-07.31.40:736][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A19)
+[2025.10.17-07.31.42:830][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.31.43:318][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A19)
+[2025.10.17-07.31.53:640][843]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.31.53:963][873]LogEditorViewport: Clicking Background
+[2025.10.17-07.31.55:181][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A19)
+[2025.10.17-07.31.58:955][441]LogEditorViewport: Clicking Background
+[2025.10.17-07.32.08:310][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A17)
+[2025.10.17-07.32.09:254][667]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door_01)
+[2025.10.17-07.32.10:025][757]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.32.11:712][957]LogEditorViewport: Clicking Background
+[2025.10.17-07.32.37:913][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.32.54:433][964]Cmd: DELETE
+[2025.10.17-07.32.54:433][964]Cmd: ACTOR DELETE
+[2025.10.17-07.32.54:436][964]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.54:440][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.17-07.32.54:440][964]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2025.10.17-07.32.54:723][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A17)
+[2025.10.17-07.32.54:828][  8]Cmd: DELETE
+[2025.10.17-07.32.54:828][  8]Cmd: ACTOR DELETE
+[2025.10.17-07.32.54:831][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.54:835][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-07.32.54:835][  8]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.32.55:708][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A35)
+[2025.10.17-07.32.56:130][161]Cmd: DELETE
+[2025.10.17-07.32.56:130][161]Cmd: ACTOR DELETE
+[2025.10.17-07.32.56:132][161]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.56:136][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.32.56:137][161]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.32.56:458][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A36)
+[2025.10.17-07.32.56:555][208]Cmd: DELETE
+[2025.10.17-07.32.56:555][208]Cmd: ACTOR DELETE
+[2025.10.17-07.32.56:557][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.56:560][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.32.56:560][208]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.32.57:700][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.32.57:803][355]Cmd: DELETE
+[2025.10.17-07.32.57:803][355]Cmd: ACTOR DELETE
+[2025.10.17-07.32.57:806][355]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.57:809][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.32.57:810][355]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.32.58:132][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A34)
+[2025.10.17-07.32.58:162][395]Cmd: DELETE
+[2025.10.17-07.32.58:162][395]Cmd: ACTOR DELETE
+[2025.10.17-07.32.58:164][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.58:168][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.17-07.32.58:169][395]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.32.58:498][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A16)
+[2025.10.17-07.32.58:528][435]Cmd: DELETE
+[2025.10.17-07.32.58:528][435]Cmd: ACTOR DELETE
+[2025.10.17-07.32.58:530][435]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.58:533][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.32.58:534][435]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.32.59:199][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A33)
+[2025.10.17-07.32.59:263][519]Cmd: DELETE
+[2025.10.17-07.32.59:263][519]Cmd: ACTOR DELETE
+[2025.10.17-07.32.59:265][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.59:268][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.32.59:269][519]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.32.59:550][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A17)
+[2025.10.17-07.32.59:580][554]Cmd: DELETE
+[2025.10.17-07.32.59:580][554]Cmd: ACTOR DELETE
+[2025.10.17-07.32.59:583][554]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.32.59:586][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.17-07.32.59:587][554]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.33.00:968][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A19)
+[2025.10.17-07.33.01:565][788]Cmd: DELETE
+[2025.10.17-07.33.01:565][788]Cmd: ACTOR DELETE
+[2025.10.17-07.33.01:568][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.33.01:571][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-07.33.01:572][788]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.33.53:579][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-07.33.53:604][973]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement_Auto37779C60643D11B13F7B83BB1E937C34F.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/Maps/environement_Auto3.umap'
+[2025.10.17-07.33.53:605][973]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL_Main' took 0.028
+[2025.10.17-07.33.53:605][973]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.10.17-07.34.00:100][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A7)
+[2025.10.17-07.34.00:769][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A4)
+[2025.10.17-07.34.01:987][933]LogEditorViewport: Clicking Background
+[2025.10.17-07.35.00:249][512]LogActorFactory: Actor Factory created SM_Wall_2m_4m_01_B
+[2025.10.17-07.35.01:626][668]LogActorFactory: Actor Factory created SM_Wall_2m_4m_01_B
+[2025.10.17-07.35.03:709][915]Cmd: DELETE
+[2025.10.17-07.35.03:709][915]Cmd: ACTOR DELETE
+[2025.10.17-07.35.03:712][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.35.03:715][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.10.17-07.35.03:716][915]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.35.19:027][558]LogActorFactory: Actor Factory created SM_Wall_Window_Beam_01_C
+[2025.10.17-07.36.33:494][327]LogActorFactory: Actor Factory created SM_Wall_Door_4m_01_A
+[2025.10.17-07.36.38:334][897]LogActorFactory: Actor Factory created SM_Wall_Door_4m_01_A
+[2025.10.17-07.36.38:701][938]Cmd: DELETE
+[2025.10.17-07.36.38:701][938]Cmd: ACTOR DELETE
+[2025.10.17-07.36.38:704][938]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.36.38:707][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.17-07.36.38:708][938]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.36.39:938][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A32)
+[2025.10.17-07.36.41:598][281]Cmd: POLY SELECT ALL
+[2025.10.17-07.36.42:783][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A32)
+[2025.10.17-07.36.46:790][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A32)
+[2025.10.17-07.36.47:152][942]Cmd: DELETE
+[2025.10.17-07.36.47:152][942]Cmd: ACTOR DELETE
+[2025.10.17-07.36.47:156][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.36.47:159][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-07.36.47:160][942]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.36.47:631][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_2m_01_B)
+[2025.10.17-07.36.47:758][ 10]Cmd: DELETE
+[2025.10.17-07.36.47:758][ 10]Cmd: ACTOR DELETE
+[2025.10.17-07.36.47:761][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.36.47:764][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.36.47:765][ 10]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.36.48:252][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A31)
+[2025.10.17-07.36.48:337][ 75]Cmd: DELETE
+[2025.10.17-07.36.48:337][ 75]Cmd: ACTOR DELETE
+[2025.10.17-07.36.48:341][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.36.48:343][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.36.48:344][ 75]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2025.10.17-07.36.49:919][227]LogActorFactory: Actor Factory created SM_Wall_Door_4m_01_B
+[2025.10.17-07.36.53:159][603]LogActorFactory: Actor Factory created SM_Wall_Door_4m_01_B
+[2025.10.17-07.40.05:196][218]Cmd: DELETE
+[2025.10.17-07.40.05:196][218]Cmd: ACTOR DELETE
+[2025.10.17-07.40.05:199][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.40.05:203][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.17-07.40.05:204][218]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.40.09:020][676]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.09:020][676]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.09:248][683]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.09:248][683]LogEditorTransaction: Undo Create Actors
+[2025.10.17-07.40.09:611][698]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.09:611][698]LogEditorTransaction: Undo Move Actors
+[2025.10.17-07.40.09:853][715]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.09:853][715]LogEditorTransaction: Undo Move Actors
+[2025.10.17-07.40.10:090][742]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.10:090][742]LogEditorTransaction: Undo Move Actors
+[2025.10.17-07.40.10:301][767]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.10:301][767]LogEditorTransaction: Undo Move Actors
+[2025.10.17-07.40.10:464][786]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.10:464][786]LogEditorTransaction: Undo Create Actors
+[2025.10.17-07.40.10:636][799]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.10:636][799]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.10:911][823]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.10:911][823]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.11:086][836]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.11:086][836]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.11:231][843]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.11:231][843]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.11:403][854]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.11:403][854]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.11:562][864]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.11:562][864]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.11:745][879]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.11:745][879]LogEditorTransaction: Undo Disband Group
+[2025.10.17-07.40.11:937][891]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.11:937][891]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.12:095][901]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.12:095][901]LogEditorTransaction: Undo Select All
+[2025.10.17-07.40.12:237][910]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.12:237][910]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.12:396][920]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.12:396][920]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.12:554][931]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.12:554][931]LogEditorTransaction: Undo Create Actors
+[2025.10.17-07.40.12:929][967]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.12:929][967]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.13:146][987]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.13:146][987]LogEditorTransaction: Undo Create Actors
+[2025.10.17-07.40.13:354][  4]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.13:354][  4]LogEditorTransaction: Undo Clicking Background
+[2025.10.17-07.40.13:521][ 15]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.13:521][ 15]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.13:680][ 23]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.13:680][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.13:840][ 42]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.13:840][ 42]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.13:997][ 52]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.13:997][ 52]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.14:155][ 63]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.14:155][ 63]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.14:314][ 73]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.14:314][ 73]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.14:481][ 88]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.14:481][ 88]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.14:639][ 99]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.14:639][ 99]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.14:814][111]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.14:814][111]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.14:972][122]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.14:972][122]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.15:147][134]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.15:147][134]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.15:339][149]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.15:339][149]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.15:531][163]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.15:531][163]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.15:681][172]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.15:681][172]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.15:873][190]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.15:873][190]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.16:173][219]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.16:173][219]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.16:348][231]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.16:348][231]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.16:523][243]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.16:523][243]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.16:715][257]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.16:715][257]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.16:940][276]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.16:940][276]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.17:341][315]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.17:341][315]LogEditorTransaction: Undo Delete Actors
+[2025.10.17-07.40.17:740][354]Cmd: TRANSACTION UNDO
+[2025.10.17-07.40.17:740][354]LogEditorTransaction: Undo Clicking on Actors
+[2025.10.17-07.40.54:796][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-07.40.54:822][772]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement5299D14448A7AC4A104843A0D7035D2D.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-07.40.54:845][772]AssetCheck: New page: Asset Save: environement
+[2025.10.17-07.40.54:845][772]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-07.41.01:216][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_01)
+[2025.10.17-07.41.12:717][879]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A17)
+[2025.10.17-07.41.13:436][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A35)
+[2025.10.17-07.41.13:973][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A18)
+[2025.10.17-07.41.14:643][ 94]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A17)
+[2025.10.17-07.41.15:123][149]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A33)
+[2025.10.17-07.41.15:459][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A16)
+[2025.10.17-07.41.15:946][243]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A34)
+[2025.10.17-07.41.16:319][285]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A39)
+[2025.10.17-07.41.17:064][372]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A36)
+[2025.10.17-07.41.17:400][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_2m_02_A19)
+[2025.10.17-07.41.22:613][ 16]LogEditorViewport: Clicking Background
+[2025.10.17-07.46.04:792][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A8)
+[2025.10.17-07.46.19:534][600]LogEditorViewport: Clicking Background
+[2025.10.17-07.50.54:931][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.17-07.50.54:958][759]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement_Auto479822DCC4DE9A01320AF6680C2E23A17.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/Maps/environement_Auto4.umap'
+[2025.10.17-07.50.54:958][759]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL_Main' took 0.033
+[2025.10.17-07.50.54:958][759]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.10.17-07.52.09:608][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A18)
+[2025.10.17-07.52.11:668][986]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_4m_1m_02_A19)
+[2025.10.17-07.52.12:344][ 64]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A37)
+[2025.10.17-07.52.13:181][162]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_02_A38)
+[2025.10.17-07.53.01:136][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A15)
+[2025.10.17-07.53.02:935][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A20)
+[2025.10.17-07.53.07:633][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D22)
+[2025.10.17-07.53.11:965][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A20)
+[2025.10.17-07.53.18:208][834]LogEditorViewport: Clicking Background
+[2025.10.17-07.53.20:203][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A20)
+[2025.10.17-07.53.24:509][566]LogEditorViewport: Clicking Background
+[2025.10.17-07.53.27:232][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_1m_02_A20)
+[2025.10.17-07.53.33:493][630]LogEditorViewport: Clicking Background
+[2025.10.17-07.53.38:662][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A15)
+[2025.10.17-07.53.44:251][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A17)
+[2025.10.17-07.54.12:747][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A15)
+[2025.10.17-07.54.14:395][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A21)
+[2025.10.17-07.54.21:374][253]LogEditorViewport: Clicking Background
+[2025.10.17-07.54.27:685][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A14)
+[2025.10.17-07.54.29:357][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A22)
+[2025.10.17-07.54.37:239][120]LogEditorViewport: Clicking Background
+[2025.10.17-07.54.37:945][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A22)
+[2025.10.17-07.54.40:223][474]LogEditorViewport: Clicking Background
+[2025.10.17-07.54.43:905][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A20)
+[2025.10.17-07.54.54:699][173]LogEditorViewport: Clicking Background
+[2025.10.17-07.54.55:672][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A24)
+[2025.10.17-07.54.59:035][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-07.55.00:569][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_02_A49)
+[2025.10.17-07.55.04:934][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-07.55.13:567][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A21)
+[2025.10.17-07.55.27:452][  0]LogEditorViewport: Clicking Background
+[2025.10.17-07.55.30:101][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A23)
+[2025.10.17-07.55.33:386][701]LogEditorViewport: Clicking Background
+[2025.10.17-07.55.35:562][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A24)
+[2025.10.17-07.56.22:658][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Railling_04_Pillar_A5)
+[2025.10.17-07.56.25:634][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A25)
+[2025.10.17-07.56.26:828][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_4m_2m_02_A28)
+[2025.10.17-07.56.47:171][386]LogEditorViewport: Clicking Background
+[2025.10.17-07.56.51:694][928]LogEditorViewport: Clicking Background
+[2025.10.17-07.57.15:091][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D22)
+[2025.10.17-07.57.50:740][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A14)
+[2025.10.17-07.57.51:823][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A15)
+[2025.10.17-07.57.52:292][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D25)
+[2025.10.17-07.57.55:185][433]LogEditorViewport: Clicking Background
+[2025.10.17-07.57.59:088][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D25)
+[2025.10.17-07.58.00:208][ 31]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_01_D24)
+[2025.10.17-07.58.06:239][723]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_4m_01_D26)
+[2025.10.17-07.58.09:215][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A14)
+[2025.10.17-07.58.09:894][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-07.58.10:456][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D26)
+[2025.10.17-07.58.20:555][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-07.58.22:407][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D26)
+[2025.10.17-07.58.24:948][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A14)
+[2025.10.17-07.58.25:477][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-07.58.26:914][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D27)
+[2025.10.17-07.58.29:002][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A16)
+[2025.10.17-07.58.29:573][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A17)
+[2025.10.17-07.58.30:799][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D27)
+[2025.10.17-07.59.03:887][480]Cmd: DELETE
+[2025.10.17-07.59.03:887][480]Cmd: ACTOR DELETE
+[2025.10.17-07.59.03:891][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.59.03:895][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.17-07.59.03:896][480]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2025.10.17-07.59.06:187][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D28)
+[2025.10.17-07.59.11:445][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Railling_04_Pillar_A5)
+[2025.10.17-07.59.12:634][520]Cmd: DELETE
+[2025.10.17-07.59.12:634][520]Cmd: ACTOR DELETE
+[2025.10.17-07.59.12:637][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.17-07.59.12:640][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.17-07.59.12:641][520]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2025.10.17-07.59.15:386][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D29)
+[2025.10.17-07.59.21:668][584]LogEditorViewport: Clicking Background
+[2025.10.17-07.59.22:706][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D29)
+[2025.10.17-07.59.25:821][ 69]LogEditorViewport: Clicking Background
+[2025.10.17-07.59.27:294][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Railling_03_4m4)
+[2025.10.17-07.59.31:464][726]LogEditorViewport: Clicking Background
+[2025.10.17-07.59.37:699][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_4m_01_D29)
+[2025.10.17-07.59.42:601][ 57]LogEditorViewport: Clicking Background
+[2025.10.17-07.59.55:367][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_01)
+[2025.10.17-07.59.57:950][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_01)
+[2025.10.17-08.00.05:370][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_2)
+[2025.10.17-08.00.10:543][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_3)
+[2025.10.17-08.00.14:994][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_3)
+[2025.10.17-08.00.18:184][267]LogEditorViewport: Clicking Background
+[2025.10.17-08.00.25:290][107]LogEditorViewport: Clicking on Actor (LMB): BP_Chandelier_01_C (BP_Chandelier_6)
+[2025.10.17-08.00.36:981][474]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor_4m_01_A13)
+[2025.10.17-08.00.38:010][582]LogEditorViewport: Clicking on Actor (LMB): BP_Chandelier_01_C (BP_Chandelier_9)
+[2025.10.17-08.00.46:451][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A14)
+[2025.10.17-08.00.47:422][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_4m_01_A15)
+[2025.10.17-08.00.48:621][806]LogEditorViewport: Clicking on Actor (LMB): BP_Chandelier_01_C (BP_Chandelier_9)
+[2025.10.17-08.01.02:079][380]LogEditorViewport: Clicking Background
+[2025.10.17-08.01.31:142][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.17-08.01.31:172][800]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement_Auto589D31394485641C565D8119F6B6896A0.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Autosaves/Game/Maps/environement_Auto5.umap'
+[2025.10.17-08.01.31:172][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL_Main' took 0.043
+[2025.10.17-08.01.31:172][800]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2025.10.17-08.01.34:450][121]LogStaticMesh: Building static mesh SM_Candle_Horn_01...
+[2025.10.17-08.01.34:478][121]LogStaticMesh: Built static mesh [0.03s] /Game/Low_Poly_Viking_Interiors/Models/Props/Lights/SM_Candle_Horn_01.SM_Candle_Horn_01
+[2025.10.17-08.03.01:403][136]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Beam_4m_01_D23)
+[2025.10.17-08.03.02:219][221]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Wall_C (BP_Candle_Wall4)
+[2025.10.17-08.03.24:488][855]LogEditorViewport: Clicking Background
+[2025.10.17-08.03.31:583][700]LogEditorViewport: Clicking Background
+[2025.10.17-08.04.30:644][765]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Wall_C (BP_Candle_Wall4)
+[2025.10.17-08.04.32:161][945]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Chandelier_01_C (BP_Chandelier_9)
+[2025.10.17-08.04.33:505][104]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Wall_C (BP_Candle_Wall3)
+[2025.10.17-08.04.35:380][327]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Wall_C (BP_Candle_Wall2)
+[2025.10.17-08.04.36:536][464]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Wall_C (BP_Candle_Wall)
+[2025.10.17-08.04.37:791][613]Cmd: EDIT CUT
+[2025.10.17-08.04.37:798][613]LogEditorActor: Deleted Actor: BP_Candle_Wall_C
+[2025.10.17-08.04.37:798][613]LogEditorActor: Deleted Actor: BP_Chandelier_01_C
+[2025.10.17-08.04.37:798][613]LogEditorActor: Deleted Actor: BP_Candle_Wall_C
+[2025.10.17-08.04.37:798][613]LogEditorActor: Deleted Actor: BP_Candle_Wall_C
+[2025.10.17-08.04.37:798][613]LogEditorActor: Deleted Actor: BP_Candle_Wall_C
+[2025.10.17-08.04.37:808][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.17-08.04.37:810][613]LogEditorActor: Deleted 5 Actors (0.017 secs)
+[2025.10.17-08.04.45:693][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-08.04.47:675][457]LogSlate: Window 'Save Content' being destroyed
+[2025.10.17-08.04.47:691][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-08.04.47:719][457]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environementEA8C080444C6AA878C00409207AA6B6E.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-08.04.47:720][457]LogFileHelpers: Saving map 'environement' took 0.033
+[2025.10.17-08.04.47:720][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.17-08.04.47:723][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-08.04.47:726][457]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main32C6FC434704BD1D27A575B2F0A69F21.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap'
+[2025.10.17-08.04.47:745][457]LogFileHelpers: Saving map 'LVL_Main' took 0.026
+[2025.10.17-08.04.47:786][457]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Blueprint.Blueprint
+[2025.10.17-08.04.47:786][457]Cmd: MAP LOAD FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Blueprint.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.10.17-08.04.47:786][457]LightingResults: New page: Lighting Build
+[2025.10.17-08.04.47:786][457]LoadErrors: New page: Loading map: Blueprint.umap
+[2025.10.17-08.04.47:824][457]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-08.04.47:825][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-08.04.47:825][457]LogWorld: UWorld::CleanupWorld for environement, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-08.04.47:825][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-08.04.47:825][457]LogWorld: UWorld::CleanupWorld for Lumière, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-08.04.47:825][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-08.04.47:825][457]LogWorld: UWorld::CleanupWorld for Blueprint, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-08.04.47:825][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-08.04.47:826][457]MapCheck: New page: Map Check
+[2025.10.17-08.04.47:826][457]LightingResults: New page: Lighting Build
+[2025.10.17-08.04.47:828][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.17-08.04.47:830][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.17-08.04.47:831][457]LogAudio: Display: Audio Device (ID: 1) registered with world 'Blueprint'.
+[2025.10.17-08.04.47:831][457]LogAIModule: Creating AISystem for world Blueprint
+[2025.10.17-08.04.47:835][457]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.17-08.04.47:840][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.17-08.04.47:841][457]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.17-08.04.47:841][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,051ms to complete.
+[2025.10.17-08.04.47:841][457]LogFileHelpers: Loading map 'Blueprint' took 0.055
+[2025.10.17-08.04.47:875][457]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.17-08.04.47:875][457]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.17-08.04.47:887][457]LogContentValidation: Display: Validating World /Game/LVL_Main.LVL_Main
+[2025.10.17-08.04.47:901][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.17-08.04.49:516][647]Cmd: EDIT PASTE
+[2025.10.17-08.04.59:367][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.17-08.05.00:682][763]LogSlate: Window 'Save Content' being destroyed
+[2025.10.17-08.05.00:697][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blueprint" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Blueprint.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.17-08.05.00:700][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.17-08.05.00:707][763]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Blueprint4ECAB07A46E63188973E91AB7BED09CC.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Blueprint.umap'
+[2025.10.17-08.05.00:710][763]LogFileHelpers: Saving map 'Blueprint' took 0.013
+[2025.10.17-08.05.00:745][763]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LVL_Main.LVL_Main
+[2025.10.17-08.05.00:746][763]Cmd: MAP LOAD FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.10.17-08.05.00:746][763]LightingResults: New page: Lighting Build
+[2025.10.17-08.05.00:746][763]LoadErrors: New page: Loading map: LVL_Main.umap
+[2025.10.17-08.05.00:773][763]LogWorld: UWorld::CleanupWorld for Blueprint, bSessionEnded=true, bCleanupResources=true
+[2025.10.17-08.05.00:773][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.17-08.05.00:773][763]MapCheck: New page: Map Check
+[2025.10.17-08.05.00:773][763]LightingResults: New page: Lighting Build
+[2025.10.17-08.05.00:776][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.17-08.05.00:777][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.17-08.05.00:781][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.17-08.05.00:785][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.17-08.05.00:785][763]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_Main'.
+[2025.10.17-08.05.00:785][763]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Blueprint) is flushing async loading
+[2025.10.17-08.05.00:785][763]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2025.10.17-08.05.00:795][763]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/environement) is flushing async loading
+[2025.10.17-08.05.00:818][763]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Lumière) is flushing async loading
+[2025.10.17-08.05.00:820][763]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.17-08.05.00:820][763]LogAIModule: Creating AISystem for world LVL_Main
+[2025.10.17-08.05.00:826][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.17-08.05.00:827][763]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.17-08.05.00:827][763]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/Maps/Blueprint' which isn't loaded.
+[2025.10.17-08.05.00:827][763]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/Maps/Lumière' which isn't loaded.
+[2025.10.17-08.05.00:828][763]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,148ms to complete.
+[2025.10.17-08.05.00:828][763]LogFileHelpers: Loading map 'LVL_Main' took 0.082
+[2025.10.17-08.05.00:873][763]AssetCheck: New page: Asset Save: Blueprint
+[2025.10.17-08.05.00:873][763]LogContentValidation: Display: Validating World /Game/Maps/Blueprint.Blueprint
+[2025.10.17-08.05.02:556][949]LogEditorViewport: Clicking Background
+[2025.10.17-08.05.10:656][823]LogEditorViewport: Clicking Background
+[2025.10.17-08.05.56:191][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.17-08.05.56:222][147]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement65DD84F74AFCD6C0D8F89EA064B81998.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.17-08.05.56:230][147]AssetCheck: New page: Asset Save: environement
+[2025.10.17-08.05.56:230][147]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
