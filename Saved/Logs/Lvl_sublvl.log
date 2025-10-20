@@ -1468,3 +1468,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.10.20-12.09.40:115][925]AssetCheck: New page: Asset Save: multiple assets
 [2025.10.20-12.09.40:115][925]LogContentValidation: Display: Validating World /Game/LVL_Main.LVL_Main
 [2025.10.20-12.09.40:115][925]LogContentValidation: Display: Validating World /Game/Maps/Blueprint.Blueprint
+[2025.10.20-12.10.59:252][863]LogEditorViewport: Clicking Background
+[2025.10.20-12.11.15:191][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fur_01_B)
+[2025.10.20-12.11.25:599][939]LogActorFactory: Actor Factory created SM_Cloth_2A
+[2025.10.20-12.11.29:502][282]LogActorFactory: Actor Factory created SM_Fur_02_A
+[2025.10.20-12.11.40:039][325]LogActorFactory: Actor Factory created SM_Sack_01_A
+[2025.10.20-12.11.42:457][598]LogActorFactory: Actor Factory created SM_Sack_01_A
+[2025.10.20-12.12.05:559][338]LogEditorViewport: Clicking Background
+[2025.10.20-12.12.19:025][796]LogEditorViewport: Clicking Background
+[2025.10.20-12.12.38:456][125]LogEditorViewport: Clicking Background
+[2025.10.20-12.13.55:690][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag_02_E)
+[2025.10.20-12.14.02:839][866]LogEditorViewport: Clicking Background
+[2025.10.20-12.14.35:487][630]LogActorFactory: Actor Factory created SM_Carpet_03_B
+[2025.10.20-12.14.37:514][865]LogActorFactory: Actor Factory created SM_Carpet_03_B
+[2025.10.20-12.15.17:233][589]LogEditorViewport: Clicking Background
+[2025.10.20-12.15.25:079][449]LogEditorViewport: Clicking Background
+[2025.10.20-12.15.37:479][881]LogActorFactory: Actor Factory created SM_Fur_01_A
+[2025.10.20-12.15.38:415][983]LogActorFactory: Actor Factory created SM_Fur_01_A
+[2025.10.20-12.15.39:658][ 90]LogActorFactory: Actor Factory created SM_Fur_01_B
+[2025.10.20-12.15.40:821][220]LogActorFactory: Actor Factory created SM_Fur_01_B
+[2025.10.20-12.15.42:473][417]Cmd: DELETE
+[2025.10.20-12.15.42:473][417]Cmd: ACTOR DELETE
+[2025.10.20-12.15.42:476][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-12.15.42:480][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.20-12.15.42:485][417]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.20-12.15.43:185][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fur_01_A)
+[2025.10.20-12.15.45:241][745]Cmd: DELETE
+[2025.10.20-12.15.45:241][745]Cmd: ACTOR DELETE
+[2025.10.20-12.15.45:244][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-12.15.45:247][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.15.45:249][745]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2025.10.20-12.15.52:316][568]LogStaticMesh: Building static mesh SM_Helmet_01_A...
+[2025.10.20-12.15.52:401][568]LogStaticMesh: Built static mesh [0.09s] /Game/Low_Poly_Viking_Interiors/Models/Props/SM_Helmet_01_A.SM_Helmet_01_A
+[2025.10.20-12.15.52:427][569]LogActorFactory: Actor Factory created SM_Helmet_01_A
+[2025.10.20-12.15.53:693][719]LogActorFactory: Actor Factory created SM_Helmet_01_A
+[2025.10.20-12.16.04:781][ 45]LogEditorViewport: Clicking Background
+[2025.10.20-12.16.07:751][345]LogEditorViewport: Clicking Background
+[2025.10.20-12.16.38:995][804]LogStaticMesh: Building static mesh SM_Pot_09_B_Food...
+[2025.10.20-12.16.39:058][804]LogStaticMesh: Built static mesh [0.06s] /Game/Low_Poly_Viking_Interiors/Models/Props/Pots/SM_Pot_09_B_Food.SM_Pot_09_B_Food
+[2025.10.20-12.16.39:081][804]LogActorFactory: Actor Factory created SM_Pot_09_B_Food
+[2025.10.20-12.16.41:113][945]LogStaticMesh: Building static mesh SM_Pot_09_D_Food...
+[2025.10.20-12.16.41:161][945]LogStaticMesh: Built static mesh [0.05s] /Game/Low_Poly_Viking_Interiors/Models/Props/Pots/SM_Pot_09_D_Food.SM_Pot_09_D_Food
+[2025.10.20-12.16.41:283][949]LogActorFactory: Actor Factory created SM_Pot_09_D_Food
+[2025.10.20-12.16.42:063][ 32]LogActorFactory: Actor Factory created SM_Pot_09_D_Food
+[2025.10.20-12.16.53:463][397]Cmd: DELETE
+[2025.10.20-12.16.53:463][397]Cmd: ACTOR DELETE
+[2025.10.20-12.16.53:467][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-12.16.53:470][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.20-12.16.53:475][397]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.20-12.17.05:520][842]LogEditorViewport: Clicking Background
+[2025.10.20-12.19.48:194][811]LogEditorViewport: Clicking Background
+[2025.10.20-12.19.52:298][303]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2025.10.20-12.19.59:586][154]LogEditorViewport: Clicking Background
+[2025.10.20-12.20.03:266][595]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2025.10.20-12.20.12:930][741]LogEditorViewport: Clicking Background
+[2025.10.20-12.20.15:716][ 75]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2025.10.20-12.20.18:831][435]LogEditorViewport: Clicking Background
+[2025.10.20-12.20.27:084][359]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2025.10.20-12.20.30:241][736]LogEditorViewport: Clicking Background
+[2025.10.20-12.20.36:238][429]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2025.10.20-12.20.42:622][193]LogEditorViewport: Clicking Background
+[2025.10.20-12.21.31:577][742]LogEditorViewport: Clicking Background
+[2025.10.20-12.21.39:110][644]LogEditorViewport: Clicking on Actor (LMB): SpotLight (effet lumiere soleil 2)
+[2025.10.20-12.21.57:537][823]LogEditorViewport: Clicking Background
+[2025.10.20-12.21.59:547][ 64]LogEditorViewport: Clicking on Actor (LMB): SpotLight (effet lumiere soleil 2)
+[2025.10.20-12.22.07:352][995]LogEditorViewport: Clicking Background
+[2025.10.20-12.22.11:188][455]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Effet lumiere soleil)
+[2025.10.20-12.22.18:104][276]LogEditorViewport: Clicking Background
+[2025.10.20-12.22.35:357][292]LogEditorViewport: Clicking Background
+[2025.10.20-12.22.38:607][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.22.38:641][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.20-12.22.38:646][647]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LumièreD9092D61462FF93AFA559DB76FD2ED74.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.22.38:677][647]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.22.38:677][647]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.22.39:293][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.22.39:330][691]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/environement2145BDCB44B927185005A3AE048A7C7E.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/environement.umap'
+[2025.10.20-12.22.39:361][691]AssetCheck: New page: Asset Save: environement
+[2025.10.20-12.22.39:361][691]LogContentValidation: Display: Validating World /Game/Maps/environement.environement
+[2025.10.20-12.22.39:812][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.22.39:814][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.22.39:816][724]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main7B90273A45594F71585610855323461A.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap'
+[2025.10.20-12.22.39:828][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main_BuiltData" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main_BuiltData.uasset" SILENT=true
+[2025.10.20-12.22.39:837][724]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main_BuiltData85E651314AF6B9C53BCCA1A75ABAD839.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main_BuiltData.uasset'
+[2025.10.20-12.22.39:842][724]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.20-12.22.39:843][724]LogContentValidation: Display: Validating World /Game/LVL_Main.LVL_Main
+[2025.10.20-12.22.39:843][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LVL_Main_BuiltData.LVL_Main_BuiltData
+[2025.10.20-12.22.56:374][580]LogEditorViewport: Clicking Background
+[2025.10.20-12.23.02:732][339]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Effet lumiere soleil)
+[2025.10.20-12.23.03:708][455]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (effet lumiere soleil 2)
+[2025.10.20-12.23.20:393][398]LogEditorViewport: Clicking Background
+[2025.10.20-12.23.20:394][398]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.20-12.23.25:131][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.23.25:135][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.20-12.23.25:140][940]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LumièreCA496A5F49A3D281145C5E81E8EC89ED.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.23.25:147][940]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.23.25:147][940]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.23.25:827][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.23.25:830][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.23.25:832][  7]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_MainE6DD11184E39E17AD44FECA3C5C8F045.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap'
+[2025.10.20-12.23.25:838][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main_BuiltData" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main_BuiltData.uasset" SILENT=true
+[2025.10.20-12.23.25:846][  7]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main_BuiltData42D6108E46ACAE6DC466F9B8128BACC7.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main_BuiltData.uasset'
+[2025.10.20-12.23.25:852][  7]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.20-12.23.25:852][  7]LogContentValidation: Display: Validating World /Game/LVL_Main.LVL_Main
+[2025.10.20-12.23.25:852][  7]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LVL_Main_BuiltData.LVL_Main_BuiltData
+[2025.10.20-12.23.30:456][495]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Effet lumiere soleil)
+[2025.10.20-12.23.31:490][618]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (effet lumiere soleil 2)
+[2025.10.20-12.23.45:817][ 12]LogEditorViewport: Clicking Background
+[2025.10.20-12.23.45:817][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.20-12.23.51:290][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.23.51:294][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.20-12.23.51:299][638]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Lumière7795A5D9465AE7CF2BA129A6C6E9C23C.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.23.51:307][638]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.23.51:307][638]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.23.51:944][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.23.51:948][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.23.51:950][708]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main378C501B472C8CA7ACB414AC7370A5C9.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main.umap'
+[2025.10.20-12.23.51:954][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL_Main_BuiltData" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main_BuiltData.uasset" SILENT=true
+[2025.10.20-12.23.51:961][708]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LVL_Main_BuiltData28AD93C145F8754FE94980A2C4D33C5E.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/LVL_Main_BuiltData.uasset'
+[2025.10.20-12.23.51:967][708]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.20-12.23.51:967][708]LogContentValidation: Display: Validating World /Game/LVL_Main.LVL_Main
+[2025.10.20-12.23.51:967][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LVL_Main_BuiltData.LVL_Main_BuiltData
+[2025.10.20-12.23.53:099][831]LogEditorViewport: Clicking Background
+[2025.10.20-12.24.19:112][950]LogEditorViewport: Clicking Background
+[2025.10.20-12.24.42:029][684]LogEditorViewport: Clicking Background
+[2025.10.20-12.24.51:510][779]LogEditorViewport: Clicking Background
+[2025.10.20-12.24.54:327][ 80]LogEditorViewport: Clicking Background
+[2025.10.20-12.24.55:764][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.24.55:767][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.20-12.24.55:773][248]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Lumière5A218A084A0AA186F3A51B88F9D1F1EB.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.24.55:780][248]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.24.55:780][248]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.24.56:666][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.24.56:669][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.24.56:671][345]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Lumière69C6AE64403FA381E339BEA4751ED634.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.24.56:678][345]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.24.56:678][345]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.24.57:134][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.24.57:136][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.24.57:138][396]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/Lumière65E13CFF4D4BB0329B8BCEA0718E09D0.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.24.57:146][396]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.24.57:146][396]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.24.57:283][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lumière" FILE="../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.20-12.24.57:286][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.24.57:288][410]LogSavePackage: Moving '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Saved/LumièreE84D37F9420791CDE31DA9B7A7135541.tmp' to '../../../../../../Users/EDUSERVICES/Documents/REZIKI Mehdy/PROJETVIKING/Content/Maps/Lumière.umap'
+[2025.10.20-12.24.57:296][410]AssetCheck: New page: Asset Save: Lumière
+[2025.10.20-12.24.57:296][410]LogContentValidation: Display: Validating World /Game/Maps/Lumière.Lumière
+[2025.10.20-12.24.58:191][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.20-12.24.58:390][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
